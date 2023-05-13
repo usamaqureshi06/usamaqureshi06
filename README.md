@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @usamaqureshi06
 - 👀 I’m interested in working in New Backend Technologies.
-- 🌱 I’m currently learning MERN FULL STACK
+- 🌱 I’m currently working with JAVA SpringBoot
 - 💞️ I’m looking to collaborate on projects related to Node.js
 - 📫 Reach me on my email qurashia_303@live.com
 
